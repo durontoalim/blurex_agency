@@ -1,0 +1,438 @@
+@media only screen and (max-width:1200px){
+    
+    .our-service-sec1-title i {
+        font-size: 45px;
+    }
+    
+    .form-submit{
+        width: 17%;
+    }
+}
+@media only screen and (max-width:1024px){    
+    .bg-primary.form-submit {
+        padding: 10px 8px;
+        font-size: 14px;
+        width: 15%;
+    }
+    .header-sec {
+        max-width: 100%;
+        width: 100%;
+        padding-top: 80px;
+    }
+    .header-btn {
+        max-width: 100%;
+        width: 100%;
+        padding-top: 40px;     
+    }
+    .testimonials-sec i {
+        font-size: 30px;
+    }
+}
+
+@media only screen and (max-width:991px){    
+    .bg-primary.form-submit {
+        width: 17%;
+    }
+    .header-sec {
+        max-width: 100%;
+        width: 100%;
+        padding-top: 80px;
+    }
+    .header-btn {
+        max-width: 100%;
+        width: 100%;
+        padding-top: 40px;     
+    }
+    .testimonials-sec i {
+        font-size: 30px;
+    }
+    .social-media-link-sec a {
+        font-size: 18px;
+    }
+    .our-service-sec1-title i {
+        font-size: 30px;
+    }
+    .our-service-sec1-title h2 {
+        font-size: 30px;
+    }
+    .our-service-sec1-box1 h3 {
+        font-size: 20px;
+    }
+    .our-service-sec1-box2 h3 {
+        font-size: 20px;
+    }
+    .about-company {
+        padding-left: 5%;
+        max-width: 100%;
+        width: 100%;
+    }
+    .about-company-sec h1 {
+        font-size: 40px;
+    }
+    .about-company-2 {
+        max-width: 100%;
+        width: 100%;
+    }
+}
+@media only screen and (max-width:768px){
+    .header-sec {
+        max-width: 100%;
+        width: 100%;
+        padding-top: 80px;
+    }
+    .header-btn {
+        max-width: 100%;
+        width: 100%;
+        padding-top: 40px;     
+    }
+    
+    .about-company {
+        padding-left: 5%;
+        max-width: 100%;
+        width: 100%;
+    }
+    .about-company-sec h1 {
+        font-size: 40px;
+    }
+    .about-company-2 {
+        max-width: 100%;
+        width: 100%;
+    }
+    .our-service-sec1 {
+        max-width: 100%;
+        width: 100%;
+    }
+    .our-service-sec1-title h2 {
+        font-size: 45px;
+    }
+    
+    .our-service-sec2 {
+        max-width: 100%;
+        width: 100%;
+    }
+    
+    .our-work-btn a {
+        font-size: 14px;
+    }
+    
+    .our-work-btn2 {
+        padding-left: 35%;
+    }
+    
+    .form-submit {
+        width: 40%;
+        margin: 15px 0;
+    }
+    .form-text {
+        width: 90%;
+        margin: 15px 0;
+    }
+    .form-email {
+        width: 90%;
+    }
+    
+    .social-media-link-sec li {
+        padding: 0 1%;
+    }
+    .social-media-link-sec a {
+        font-size: 18px;
+    }
+    
+    .quick-links-left {
+        width: 100%;
+    }
+    .quick-links-right {
+        width: 100%;
+    }
+    #footer {
+        font-size: 14px;
+    }
+    .our-achievement-1 img {
+        width: 25%;
+    }
+    .our-achievement-2 img {
+        width: 25%;
+    }
+    .our-achievement-3 img {
+        width: 25%;
+    }
+    .our-achievement-1 span {
+        font-size: 30px;
+    }
+    .our-achievement-2 span {
+        font-size: 30px;
+    }
+    .our-achievement-3 span {
+        font-size: 30px;
+    }
+    .our-achievement-1 h4 {
+        font-size: 20px;
+    }
+    .our-achievement-2 h4 {
+        font-size: 20px;
+    }
+    .our-achievement-3 h4 {
+        font-size: 20px;
+    }
+     .our-achievement-1 h5 {
+        font-size: 15px;
+    }
+    .our-achievement-2 h5 {
+        font-size: 15px;
+    }
+    .our-achievement-3 h5 {
+        font-size: 15px;
+    }
+    
+    .bg-primary.form-submit {
+        width: 25%;
+    }
+}
+
+@media only screen and (max-width:520px){
+    .header-sec h1{
+        font-size: 30px;
+    }
+    .header-sec i{
+        font-size: 22px;
+    }
+    .about-company-sec h1 {
+        font-size: 34px;
+    }
+    .about-company-btn button {
+        width: 45%;
+        margin-top: 4%;
+    }
+    .about-company-btn2 {
+        text-align: center;
+    }
+   .our-service-sec1-title h2 {
+        font-size: 40px;
+    }
+    .our-achievement-1 {
+        max-width: 100%;
+        width: 100%;
+        text-align: center;
+        padding-top: 0;
+    }
+    .our-achievement-2 {
+        max-width: 100%;
+        width: 100%;
+        text-align: center;
+        padding-top: 0;
+    }
+    .our-achievement-3 {
+        max-width: 100%;
+        width: 100%;
+        text-align: center;
+        padding-top: 0;
+    }
+    
+    .story-sec h2 {
+        font-size: 30px;
+    }
+    .our-service-sec1-title h2 {
+        font-size: 35px;
+    }
+    .our-work-sec h4 {
+        font-size: 40px;
+    }
+    .our-work-sec p {
+        font-size: 15px;
+    }
+    .testimonials-sec p {
+        font-size: 15px;
+    }
+    .need-help-sec h3 {
+        font-size: 22px;
+    }
+    .need-help-sec p {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width:420px){
+    .container.m-logo img {
+        width: 35%;
+    }
+    .header-sec i {
+        font-size: 18px;
+    }
+    h1{
+        font-size: 24px;
+    }
+    .header-btn a {
+        font-size: 14px;
+    }
+    .header-btn button {
+        padding: 10px 15px;
+    }
+    .about-company-sec h1 {
+        font-size: 27px;
+    }
+    .about-company-btn button {
+        padding-bottom: 20px;
+    }
+    .about-company-btn2 {
+        text-align: center;
+    }
+    .watch-img img {
+        width: 60%;
+        float: right;
+    }
+    .our-achievement-1 {
+        max-width: 100%;
+        width: 100%;
+        text-align: center;
+        padding-top: 0;
+    }
+    .our-achievement-2 {
+        max-width: 100%;
+        width: 100%;
+        text-align: center;
+        padding-top: 0;
+    }
+    .our-achievement-3 {
+        max-width: 100%;
+        width: 100%;
+        text-align: center;
+        padding-top: 0;
+    }
+    
+    .story-sec h2 {
+        font-size: 22px;
+        padding-top: 10px;
+    }
+    
+    .our-service-sec1-title h2 {
+        font-size: 28px;
+    }
+    
+    .our-work-sec h4 {
+        font-size: 30px;
+    }
+    
+    .our-work-btn2 {
+        padding-left: 25%;
+ 
+    }
+    .client-logo-sec {
+        height: 30px;
+    }
+    
+    .testimonials-sec i {
+        font-size: 30px;
+    }
+    
+    .quick-links-left {
+        padding-left: 10%;
+    }
+    .need-help-btn input {
+        padding: 15px 35px;
+    }
+    .our-work-btn{
+        padding-top: 25px;
+    }
+    .our-work-btn button {
+        width: 41%;
+    }
+    
+    .btn.our-work-btn button {
+        width: 60%;
+    }
+    .testimonials-sec p {
+        font-size: 18px;
+    }
+    
+    
+}
+
+@media only screen and (max-width:360px){
+    p{
+        font-size: 15px;
+    }
+    a{
+        font-size: 15px;
+    }
+    .header-sec i {
+        font-size: 14px;
+    }
+    .btn.header-btn button {
+        padding: 8px 18px;
+    }
+    .about-company-sec i {
+        font-size: 15px;
+    }
+    .about-company-sec h1 {
+        font-size: 22px;
+    }
+    .story-sec h2 {
+        font-size: 20px;
+    }
+    .our-service-sec1-title h2 {
+        font-size: 24px;
+    }
+    .our-service-sec1-box1 h3 {
+        font-size: 16px;
+        font-weight: bold;
+    }
+    .our-service-sec1-box2 h3 {
+        font-size: 16px;
+        font-weight: bold;
+    }
+    .btn.our-service-btn {
+        padding: 0px 0px;
+    }
+    .play-btn img {
+        width: 40%;
+    }
+    .our-work-btn button {
+        width: 60%;
+    }
+    
+    .testimonials-sec h2 {
+        font-size: 35px;
+    }
+    .testimonials-sec i {
+    font-size: 22px;
+    }
+    
+    .testimonials-sec p {
+        font-size: 15px;
+    }
+    .need-help-sec h2 {
+        font-size: 35px;
+    }
+    .need-help-sec h3 {
+        font-size: 18px;
+    }
+    .need-help-sec p {
+        font-size: 15px;
+    }
+    .need-help-btn input {
+        padding: 7px 23px;
+    }
+    
+    .social-media-link-sec a {
+        font-size: 14px;
+    }
+    
+    .quick-links-left h3 {
+        font-size: 20px;
+    }
+    .our-service-sec1-box1 p {
+        font-size: 15px;
+    }
+    .our-service-sec1-box2 p {
+        font-size: 15px;
+    }
+    .our-work-sec p {
+        font-size: 15px;
+    }
+    .our-work-btn2 a {
+        font-size: 15px;
+    }
+    .bg-primary.form-submit {
+        width: 30%;
+    }
+}
